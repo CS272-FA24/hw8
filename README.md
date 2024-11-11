@@ -14,7 +14,7 @@ The `SECTOR_CODE` is a case-insensitive letter, A-Z. It has a name and a list of
 
 The `DWELLING_UNIT` is a number made up of *1 or more* digits. It is similar to a house number!
 
-The `DIVISION_NUMBER` is exactly a 1-digit number, 0-9, used to lookup the division name from a sector's list of the `GALATIC_MAP`. It is similar to a street name! For example, Alpha's Division 3 is "Cometary Graviton Ln".
+The `DIVISION_NUMBER` is exactly a 1-digit number, 0-9, used to lookup the division name from a sector's list of the `GALATIC_MAP`. It is similar to a street name! For example, Alpha's Division 3 is "Extraterrestrial Velocium Way".
 
 Putting this altogether, a galatic code of `b.980@0` has an address of `980 Nebular Zerium Ave of Bravo` because...
 
